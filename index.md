@@ -70,7 +70,7 @@
 						<p>
 							Clicca per la lista completa degli workshops.
 						</p>
-						<a href="Iscrizioni.html" class="more">vai alla pagina</a>
+						<a href="ContattiIscrizioni.html.html" class="more">vai alla pagina</a>
 					</div>
 					<img src="images/workshops.jpg" alt="">
 				</li>
