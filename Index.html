@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Trasmissions Summer School</title>
+	<title>Transmissions Summer School</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -108,7 +108,7 @@
 	<div id="footer">
 		<div>
 			<p>
-				<span>2020-2021 &copy; Trasmissions Summer School. Photo credit: Elisa Giardina Papa | Website: <a href="http://www.elisagiardinapapa.org/">elisagiardinapapa.org</a></span>
+				<span>2020-2021 &copy; Transmissions Summer School. Photo credit: Elisa Giardina Papa | Website: <a href="http://www.elisagiardinapapa.org/">elisagiardinapapa.org</a></span>
 			</p>
 			<ul>
 			</ul>
